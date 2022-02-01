@@ -27,7 +27,7 @@ function NavBar(){
                 </div>
                 <div className = 'right-nav-big'>
                     <img src = {Cart} alt = '' onClick={() => {dispatch({ type: 'OPEN_CART' })}}/>
-                    {!state.isCartEmpty && <div className = 'cart-mini-number'>{state.orderNum}</div>}
+                    {!state.isCartEmpty && <div className = 'cart-mini-number'>{state.cartOrder}</div>}
                     <img src = {require('../images/image-avatar.png')} className = 'avatar-logo-big' alt = '' />
                 </div>
             </div>
@@ -41,7 +41,7 @@ function NavBar(){
                 </div>
                 <div className = 'right-nav-small'>
                     <img src = {Cart} alt = '' onClick={() => {dispatch({ type: 'OPEN_CART' })}} className ='cart-logo' />
-                    {!state.isCartEmpty && <div className = 'cart-mini-number-small'>{state.orderNum}</div>}
+                    {!state.isCartEmpty && <div className = 'cart-mini-number-small'>{state.cartOrder}</div>}
                     <img src = {require('../images/image-avatar.png')} className = 'avatar-logo-small' alt = '' />
                 </div>
             </div>

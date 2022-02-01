@@ -405,10 +405,6 @@ margin-right: 5px;
   margin-top: 15px;
 }
 
-.addCart-small:hover{
-  opacity: 70%;
-  cursor: pointer;
-}
 .cart-icon{
   margin-right: 15px;
   margin-top: 5px;
@@ -703,9 +699,6 @@ margin-right: 5px;
   top: 45%;
 }
 
-.next_button-small:hover .next-icon{
-  stroke: var(--orange);
-}
 
 .previous_button-small{
   position: absolute;
@@ -718,6 +711,3 @@ margin-right: 5px;
   top: 45%;
 }
 
-.previous_button-small:hover .previous-icon{
-  stroke: var(--orange);
-}
