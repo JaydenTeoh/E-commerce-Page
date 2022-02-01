@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://jayden-e-commerce-page.netlify.app/
 
 ## My process
 
@@ -66,6 +66,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - 
 - Github - https://github.com/JaydenTeoh
 
