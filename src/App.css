@@ -405,6 +405,10 @@ margin-right: 5px;
   margin-top: 15px;
 }
 
+.addCart-small:active{
+  opacity: 70%;
+}
+
 .cart-icon{
   margin-right: 15px;
   margin-top: 5px;
@@ -574,7 +578,7 @@ margin-right: 5px;
 .carousel{
   position: fixed;
   width: 100vw;
-  height: 100%;
+  height: 100vh;
   z-index: 99;
   left: 0;
   top: 0;
