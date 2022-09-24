@@ -56,9 +56,7 @@ I also learnt about useMediaQuery from react-responsive and how it can be used t
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Learn and implementing a CSS framework as vanilla CSS can be a little clunky and tedious
 
 ### Useful resources
 
